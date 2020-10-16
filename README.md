@@ -65,6 +65,7 @@ Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects
 - [Movie of the day](#movie-of-the-day)
 - [Website Scraper / Analyzer](#website-scraper--analyzer)
 - [Palindrome](#palindrome)
+- [Turtle Race](#turtle-race)
 
 ## Projects
 
@@ -484,6 +485,10 @@ do so), like Python and Java.
 - Write a program to check if a number is a palindrome or not.
 - For example 12321 is a palindrome since it reads the same forward and backwards. 
 
+### Turtle Race
+This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a
+random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest
+is the winner.
    
 
 ## Solutions
